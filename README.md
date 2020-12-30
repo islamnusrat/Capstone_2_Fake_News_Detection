@@ -1,4 +1,4 @@
-![alt text](http://https://international.usc.edu/wp-content/uploads/fake.jpg)
+![alt text](http://https://international.usc.edu/wp-content/uploads/fake.jpg.png)
 
 
 # Capstone_2_Fake_News_Detection
